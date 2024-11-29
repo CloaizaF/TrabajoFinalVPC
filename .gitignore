@@ -1,4 +1,6 @@
 skin_cancer_dataset/
+images/
+masks/
 .DS_Store
 .ipynb_checkpoints/
 
